@@ -1,9 +1,5 @@
 # DogTagKit
 
-Copyright 2025 by FIDO3.ai
-Generated on: 2024-07-09T12:34:56Z
-All rights reserved.
-
 A modern FIDO2/WebAuthn server implementation in Swift that is fully compatible with Apple, Google, and Microsoft PassKeys. Created by FIDO3.ai, DogTagKit provides a complete solution for passwordless authentication in your applications.
 
 ## 🚀 Features
@@ -396,3 +392,6 @@ DogTagKit is created and maintained by FIDO3.ai, specialists in FIDO2/WebAuthn a
 ---
 
 **Ready to go passwordless?** Get started with DogTagKit today and bring modern authentication to your server side Swift applications! 🚀
+
+Copyright 2025 by FIDO3.ai
+All rights reserved.
