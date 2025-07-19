@@ -1,4 +1,4 @@
-# DogTagKit
+# 🐶🏷️ DogTagKit
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS%2014%2B%20|%20iOS%2017%2B-blue.svg)](https://swift.org)
