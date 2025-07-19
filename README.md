@@ -64,7 +64,7 @@ A modern, production-ready FIDO2/WebAuthn server implementation in Swift that pr
 | **macOS 14+** | ✅ | N/A | ✅ | ✅ | Full Support |
 | **iOS 17+** | ✅ | N/A | ✅ | ✅ | Full Support |
 | **Windows 11** | N/A | ✅ | ✅ | ✅ | Full Support |
-| **Linux** | N/A | N/A | ✅ | ⚠️ | Security Keys Only |
+| **Linux** | N/A | N/A | ✅ | ⚠️ | FireFox Security Keys Only |
 | **Android** | ✅ | N/A | ✅ | ✅ | Via Browser |
 
 ### Browser Compatibility
